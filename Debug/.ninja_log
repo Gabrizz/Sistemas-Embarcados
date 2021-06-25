@@ -1,0 +1,11 @@
+# ninja log v5
+2	120	6462742807453819	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Exe/Laboratório_01.out	67e5e79070278a26
+0	102	6462743444321010	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Obj/main.o	40f3dc1e1e2818c7
+1	363	6462635631316348	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Obj/startup_TM4C1294.o	3d9ade79345ad81f
+2	171	6462639157045553	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Obj/system_TM4C1294_TW.o	2b59e743758d0cc7
+3	103	6462743455882501	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Exe/Laboratório_01.out	67e5e79070278a26
+1	281	6462743931536292	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Obj/main.o	40f3dc1e1e2818c7
+3	122	6462743939041651	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Exe/Laboratório_01.out	67e5e79070278a26
+1	277	6462749187485412	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Obj/main.o	2baaccbaa1ec7983
+3	110	6462749209482809	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Exe/Laboratório_01.out	67e5e79070278a26
+1	105	6462749641732743	C:/Github/TM4C1294_Bare_IAR9/Projects/Laboratório_01/Debug/Obj/main.o	2baaccbaa1ec7983
