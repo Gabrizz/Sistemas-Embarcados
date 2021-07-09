@@ -1,13 +1,13 @@
-"C:\Github\TM4C1294_Bare_IAR9\Projects\fsm_event\src\system_TM4C1294_TW.c"
+"C:\Github\TM4C1294_Bare_IAR9\Projects\fsm_event\src\fsm_event.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Github\TM4C1294_Bare_IAR9\Projects\fsm_event\Debug\BrowseInfo\system_TM4C1294_TW.pbi.dep
+C:\Github\TM4C1294_Bare_IAR9\Projects\fsm_event\Debug\BrowseInfo\fsm_event.pbi.dep
 -o
-C:\Github\TM4C1294_Bare_IAR9\Projects\fsm_event\Debug\BrowseInfo\system_TM4C1294_TW.pbi
+C:\Github\TM4C1294_Bare_IAR9\Projects\fsm_event\Debug\BrowseInfo\fsm_event.pbi
 -I
 C:\Github\TM4C1294_Bare_IAR9\Projects\fsm_event\src
 -I
